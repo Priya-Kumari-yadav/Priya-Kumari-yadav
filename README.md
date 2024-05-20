@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priya-kumari-yadav" alt="priya-kumari-yadav" /></a> </p>
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 - 📫 How to reach me **riyayadav13062003@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
@@ -22,4 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priya-kumari-yadav&show_icons=true&locale=en&layout=compact" alt="priya-kumari-yadav" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priya-kumari-yadav&show_icons=true&locale=en" alt="priya-kumari-yadav" /></p>
+
 
